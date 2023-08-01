@@ -1,0 +1,26 @@
+2022-11-17 11:57:07,065 [INFO] Starting LoggingdemoApplication using Java 17.0.4.1 on del1-lhp-n82536 with PID 168947 (/home/sameer.meher/Documents/MicroServices/loggingdemo/target/classes started by sameer.meher in /home/sameer.meher/Documents/MicroServices/loggingdemo)
+2022-11-17 11:57:07,065 [INFO] No active profile set, falling back to 1 default profile: "default"
+2022-11-17 11:57:07,142 [INFO] Tomcat initialized with port(s): 8080 (http)
+2022-11-17 11:57:07,143 [INFO] Starting service [Tomcat]
+2022-11-17 11:57:07,144 [INFO] Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-17 11:57:07,148 [INFO] Initializing Spring embedded WebApplicationContext
+2022-11-17 11:57:07,148 [INFO] Root WebApplicationContext: initialization completed in 82 ms
+2022-11-17 11:57:07,180 [INFO] LiveReload server is running on port 35729
+2022-11-17 11:57:07,196 [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-17 11:57:07,198 [INFO] Started LoggingdemoApplication in 0.142 seconds (JVM running for 437.324)
+2022-11-17 11:57:07,198 [INFO] Condition evaluation unchanged
+2022-11-17 11:58:06,155 [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-17 11:58:06,155 [INFO] Initializing Servlet 'dispatcherServlet'
+2022-11-17 11:58:06,156 [INFO] Completed initialization in 1 ms
+2022-11-17 11:58:06,180 [ERROR] this is error info
+2022-11-17 11:58:06,180 [WARN] warning info
+2022-11-17 11:58:06,180 [INFO] this is info
+2022-11-17 11:58:07,431 [ERROR] this is error info
+2022-11-17 11:58:07,432 [WARN] warning info
+2022-11-17 11:58:07,432 [INFO] this is info
+2022-11-17 11:58:08,028 [ERROR] this is error info
+2022-11-17 11:58:08,028 [WARN] warning info
+2022-11-17 11:58:08,028 [INFO] this is info
+2022-11-17 11:58:08,212 [ERROR] this is error info
+2022-11-17 11:58:08,213 [WARN] warning info
+2022-11-17 11:58:08,213 [INFO] this is info

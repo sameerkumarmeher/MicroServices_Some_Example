@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/spring-boot-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security-jwt-example/spring-security-jwt-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security-jwt-example/spring-security-jwt-example/src" vcs="Git" />
+  </component>
+</project>
